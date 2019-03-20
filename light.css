@@ -1,21 +1,21 @@
-.Header {
+.Header-old {
   background-color: #f5f5f5 !important;
   color: #333 !important;
   border-bottom: 1px solid #eee !important;
 }
 
-.Header .header-logo-wordmark, .Header .header-logo-invertocat {
+.Header-old .header-logo-wordmark, .Header .Header-link .header-logo-invertocat {
   color: #555 !important;
 }
 
-.Header .HeaderNavlink {
+.Header-old .HeaderNavlink {
   color: #555 !important;
 }
 
 .notification-indicator {
   color: #555 !important;
 }
-.Header .HeaderNavlink:hover, .Header .HeaderNavlink:focus {
+.Header-old .HeaderNavlink:hover, .Header .HeaderNavlink:focus {
   color: #333 !important;
 }
 
@@ -23,23 +23,23 @@
   border-top-color: #333 !important;
 }
 
-.Header .notification-indicator .mail-status {
+.Header-old .notification-indicator .mail-status {
   background-color: #4078c0 !important;
 }
 
-.Header .notification-indicator .mail-status {
+.Header-old .notification-indicator .mail-status {
   border: #f3f3f3 !important;
 }
 
-.Header .form-control, .Header .form-select {
+.Header-old .form-control, .Header .form-select {
   color: #333 !important;
   outline: none !important;
 }
 
-.Header .header-search-input::-webkit-input-placeholder {
+.Header-old .header-search-input::-webkit-input-placeholder {
   color: #767676 !important;
 }
-.Header .header-search-wrapper {
+.Header-old .header-search-wrapper {
   background-color: #fff !important;
   background-repeat: no-repeat !important;
   background-position: right 8px center !important;
@@ -47,7 +47,7 @@
   border-radius: 3px !important;
 }
 
-.Header .header-search-scope {
+.Header-old .header-search-scope {
   font-size: 12px !important;
   color: #767676 !important;
   border-right: 1px solid #eee !important;
