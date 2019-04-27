@@ -1,56 +1,37 @@
-.Header-old {
+.Header {
   background-color: #f5f5f5 !important;
   color: #333 !important;
   border-bottom: 1px solid #eee !important;
 }
 
-.Header-old .header-logo-wordmark, .Header .Header-link .header-logo-invertocat {
-  color: #555 !important;
-}
-
-.Header-old .HeaderNavlink {
+.Header-link {
   color: #555 !important;
 }
 
 .notification-indicator {
   color: #555 !important;
 }
-.Header-old .HeaderNavlink:hover, .Header .HeaderNavlink:focus {
+.Header .HeaderNavlink:hover, .Header-link .HeaderNavlink:focus {
   color: #333 !important;
 }
 
-.header-Navlink:hover .dropdown-caret, .HeaderNavlink:focus .dropdown-caret {
-  border-top-color: #333 !important;
-}
-
-.Header-old .notification-indicator .mail-status {
+.Header .notification-indicator .mail-status {
   background-color: #4078c0 !important;
 }
 
-.Header-old .notification-indicator .mail-status {
+.Header .notification-indicator .mail-status {
   border: #f3f3f3 !important;
 }
 
-.Header-old .form-control, .Header .form-select {
+.Header .form-control, .Header .form-select {
   color: #333 !important;
   outline: none !important;
 }
 
-.Header-old .header-search-input::-webkit-input-placeholder {
-  color: #767676 !important;
-}
-.Header-old .header-search-wrapper {
+.Header .header-search-wrapper {
   background-color: #fff !important;
   background-repeat: no-repeat !important;
   background-position: right 8px center !important;
   border: 1px solid #ddd !important;
   border-radius: 3px !important;
-}
-
-.Header-old .header-search-scope {
-  font-size: 12px !important;
-  color: #767676 !important;
-  border-right: 1px solid #eee !important;
-  border-top-left-radius: 3px !important;
-  border-bottom-left-radius: 3px !important;
 }
